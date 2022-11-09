@@ -1,0 +1,71 @@
+ <div class="row">
+        <div class="row align-items-center">
+            <div class="col-6">
+                <h3>Preguntas Frecuentes</h3>
+                <br>
+                <div class="accordion" id="accordionPanelsStayOpenExample">
+                    <div class="accordion-item">
+                      <h2 class="accordion-header" id="panelsStayOpen-headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        <strong>¿En que consiste el servicio?</strong>
+                        </button>
+                      </h2>
+                      <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+                        <div class="accordion-body">
+                         <p>Nuestro servicio se basa en el alquiler de bauleras privadas para el almacenamiento de todo tipo de bienes.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                      <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                            <strong>¿Cuanto es la duración de los contratos?</strong>
+                        </button>
+                      </h2>
+                      <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+                        <div class="accordion-body">
+                            <p>Los mismos pueden ser diarios, semanales, mensuales o anuales.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                      <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                            <strong>¿Qué capacidad tienen las bauleras?</strong>
+                        </button>
+                      </h2>
+                      <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+                        <div class="accordion-body">
+                            <p>Contamos con 3 tamaños de bauleras:</p>
+                                <strong>Maxi (24m3):</strong> Capacidad para el amoblamiento de una casa.
+                                <br>
+                                <strong>Estándar (12m3):</strong>Capacidad para el amoblamiento de un departamento de 2 dormitorios.
+                                <br>
+                                <strong>Mini (1m3):</strong> Capacidad para cajas, libros, valijas, vajilla, ropa, herramientas, etc.
+                                <br>
+                                <br>
+                                <p>También ofrecemos la posibilidad de armar espacios a medidas según las necesidades de nuestros clientes</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="panelsStayOpen-headingFour">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                              <strong>¿Puede acceder otra persona a mi baulera?</strong>
+                          </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+                          <div class="accordion-body">
+                              <p>Cada cliente tiene un cospel que le permite el acceso a las instalaciones y una llave del candado de su baulera. Puede ceder el acceso a una persona de su confianza siempre teniendo en cuenta que todos los accesos quedan registrados por el control de acceso y grabado por las cámaras de seguridad.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <br>
+                  <button type="button" class="btn btn-lg">Ver Más</button>
+            </div>
+            <div class="col-6">
+            <img src=chica-lx-1.png id="imagen">
+         </div>
+        </div>
+    </div>

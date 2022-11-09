@@ -1,0 +1,17 @@
+ #imagen{
+        height: 800px;
+        width: 800px;
+        padding-left: 100px;
+        background-color: #9e9d9d;
+    }
+    body {
+    background-image: url(https://lugarextra.com.ar/wp/wp-content/uploads/2022/06/transportation-services-01.png);
+    background-repeat: no-repeat;
+    }
+    .btn{
+         font-size: 1.09rem;
+        letter-spacing: 0.05rem;
+        padding: 0.75rem 1rem;
+        background-color: #e09900;
+        color: white;
+    }

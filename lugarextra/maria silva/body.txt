@@ -1,0 +1,14 @@
+    <div class="container">
+    <div class="row text-center justify-content-around align-items-center"style="height:600px;"  >
+        <div class=" col-12 col-md-6 col-xl-4 ">
+            <h1  style="font-size:50px;" >LUGAR <span style="color:#ca8825d8 ;" >EXTRA</span> </h1> </h1>
+            <h3 style="font-size:20px; " >ALQUILER DE ESPACIOS TEMPORALES</h3>
+    
+            
+        </div>
+            <div class=" col-12 col-md-6 col-xl-4  ">
+                <img  src="htmlpagina\ima\lugar.png" height="500px;"  alt="">
+            
+            </div>
+    </div>
+</div>
